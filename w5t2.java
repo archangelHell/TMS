@@ -9,9 +9,7 @@ public class w5t2 {
                 }else{
                     array[i][j]= "B";
                 }
-
                 System.out.print(" " + array[i][j]);
-
             }
             System.out.println();
         }
